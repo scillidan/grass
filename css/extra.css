@@ -1,0 +1,10 @@
+@import url('https://cdn.jsdelivr.net/gh/scillidan/fonts@1.0.0/serve/noticia-text.css');
+
+:root {
+    font-family: 'Noticia Text';
+    font-weight: 400;
+}
+.content__credits {
+  position: absolute;
+  bottom: 0;
+}
